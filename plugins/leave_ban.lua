@@ -20,7 +20,7 @@ local function run(msg, matches)
 
 return {
   patterns = {
-    "^!!tgservice (.*)$"
+    "^tgservice (.*)$"
   },
   run = run
 }
