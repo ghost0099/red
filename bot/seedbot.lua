@@ -224,7 +224,12 @@ function create_config( )
     "invite",
     "all",
     "leave_ban",
-    "admin"
+    "admin",
+    "plugins",
+    "calc",
+    "time",
+    "linkpv",
+    "info"
     },
     sudo_users = {262381871},--Sudo users
     disabled_channels = {},
